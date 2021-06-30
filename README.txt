@@ -1,5 +1,6 @@
 GIT Assignment Contents:
 
+
 Section 0 -Use GIT as local VCS.  Steps:1-20
 
 Objective: Commit HTML, CSS & JavaScript assignments into GIT. 
