@@ -1,4 +1,4 @@
-This are Assignment Contents:
+GIT Assignment Contents:
 
 Section 0 -Use GIT as local VCS.  Steps:1-20
 
